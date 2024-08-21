@@ -1,0 +1,4 @@
+{
+    "specFilePattern": "**/*spec.js",
+    "specFolderPattern": "**/calculator"
+  }

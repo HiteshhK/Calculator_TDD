@@ -1,0 +1,14 @@
+{
+  "name": "calculator_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.2.0"
+  }
+}

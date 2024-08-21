@@ -15,9 +15,4 @@ function add(numbers) {
     }, 0);
 }
 
-function getNumbersFromString(numbers,splitParameters){
-   
-}
-
-exports["default"] = add;
-console.log(add("1,2,3,4,5"));
+exports["add"] = add;
